@@ -1,0 +1,5 @@
+Trade_ID,Ticker,Break_Type,MSPA_Value,Cust_Value,Variance
+T104,GOOGL,Missing from Custodian,Present,Missing,N/A
+T105,META,Missing from MSPA,Missing,Present,N/A
+T102,TSLA,Share Quantity Break,200.0,250.0,-50.0
+T103,AMZN,Price Mismatch Break,135.0,134.5,0.5
