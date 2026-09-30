@@ -32,5 +32,5 @@ When the engine runs, it automatically flags the breaks and exports a clean `dai
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/GravityD9/MSFS.git
-cd Automated_Trade_Reconciliation
+git clone https://github.com/GravityD9/Trade_Reconciliation.git
+cd Trade_Reconciliation
